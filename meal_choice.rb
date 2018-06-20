@@ -18,6 +18,7 @@ def dinner(food = "salmon")
 end
 
 puts breakfast
+puts breakfast(dumpligs)
 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
